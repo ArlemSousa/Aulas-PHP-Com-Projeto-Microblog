@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Aulas-PHP-Com-Projeto-Microblog/FileContentIndex
+*.wsuo
+*.json
+*.sqlite
